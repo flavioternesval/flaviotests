@@ -1,4 +1,5 @@
-﻿$SCSDK="D:\AZURE-PAAS\SitecoreAzureToolkit2.0.1rev.171218\tools\Sitecore.Cloud.Cmdlets.psm1"
+﻿#Sitecore Deployment Script
+$SCSDK="D:\AZURE-PAAS\SitecoreAzureToolkit2.0.1rev.171218\tools\Sitecore.Cloud.Cmdlets.psm1"
 $SCTemplates="https://raw.githubusercontent.com/Sitecore/Sitecore-Azure-Quickstart-Templates/master/Sitecore%209.0.1/XP"
 $DeploymentId = "sitecoredeploytstnew3"
 $ResourceGroup = "sitecoredeploytstnew3"
